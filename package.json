@@ -2,7 +2,7 @@
   "name": "react-tinymce-rebelfish",
   "version": "0.7.0",
   "description": "React TinyMCE component",
-  "main": "lib/main.js",
+  "main": "dist/react-tinymce.js",
   "scripts": {
     "test": "node_modules/.bin/rackt test --single-run --browsers Firefox",
     "build": "node_modules/.bin/rackt build",
