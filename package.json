@@ -24,6 +24,7 @@
     "react-dom": "^0.14.0 || ^15.0.0"
   },
   "devDependencies": {
+    "prop-types": "^15.6.0",
     "rackt-cli": "^0.8.0",
     "react": "^15.0.0",
     "react-dom": "^15.0.0"
